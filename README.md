@@ -1,4 +1,4 @@
-# Instructions, Sample Data, and Sample Code for Prosper SageMaker Propensity BASIC Models
+# Instructions, Sample Data, and Sample Code for Prosper SageMaker Propensity Models (BASIC)
 
 This repository contains a Jupyter notebook that includes complete instructions, sample data, and Python code for using Prosper Propensity Models based on the BASIC feature set. It includes complete examples of using the models for both realtime inference and batch transform jobs.
 
